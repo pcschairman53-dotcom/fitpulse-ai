@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse AI",
+  "description": "Professional AI Fitness Assistant for personalized workout guidance, membership inquiries, and progress tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
